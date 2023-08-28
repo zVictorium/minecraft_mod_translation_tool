@@ -4,7 +4,7 @@
 
 This is a Python tool designed to assist in the translation of Minecraft mod files from one language to another. It unpacks mod JAR files, translates the language files within them, and converts the translated mod folders back to JAR files. The tool supports both JSON and LANG file formats for translations.
 
-_I searched for a long time for an automatic translator of Minecraft mods into my language, but I didn't succeed, so I created this script myself with my knowledge of Python. It can be improved, but it does the job._ ☝️🤓
+☝️🤓 _I searched for a long time for an automatic translator of Minecraft mods into my language, but I didn't succeed, so I created these scripts myself with my knowledge of Python. It can be improved, but it does the job._
 
 ## 💡 Getting Started
 
@@ -42,10 +42,10 @@ The `config.json` file contains settings that control how the translation tool o
 }
 ```
 
-- `original_language`: The language code of the source Minecraft language files. [**(Minecraft Language List)**](https://minecraft-archive.fandom.com/wiki/Languages)
-- `target_language`: The language code of the target language for translation. [**(Minecraft Language List)**](https://minecraft-archive.fandom.com/wiki/Languages)
-- `mods_path`: The path to the directory containing the original mod JAR files. (You can use _**%appdata%**_)
-- `translation_path`: The path where translated mod files will be stored. (You can use _**%appdata%**_)
+- `original_language`: The language code of the source Minecraft language files. [**Minecraft Language List**](https://minecraft-archive.fandom.com/wiki/Languages)
+- `target_language`: The language code of the target language for translation. [**Minecraft Language List**](https://minecraft-archive.fandom.com/wiki/Languages)
+- `mods_path`: The path to the directory containing the original mod JAR files. You can use _**%appdata%**_.
+- `translation_path`: The path where translated mod files will be stored. You can use _**%appdata%**_.
 - `replace_original_mods`: Set this to `true` if you want to replace the original mod files with the translated versions.
 
 ## 📄 Project Structure
