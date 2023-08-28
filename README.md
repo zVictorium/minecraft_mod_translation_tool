@@ -78,6 +78,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-_Made by [zVictörium](https://zvictorium.github.io)._
+---
+
+_Made with_ ❤️ _by [zVictörium](https://zvictorium.github.io)._
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/victorium)
